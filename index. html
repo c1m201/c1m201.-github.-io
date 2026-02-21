@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta itemprop="name" content="点击查看心意">
+  <meta name="description" content="点一下这张卡片~">
+  <meta itemprop="image" content="https://picsum.photos/id/1/200/200">
+  <title>鸣潮提示</title>
+</head>
+<body>
+  <script>
+    alert("鸣潮牛逼");
+    setTimeout(() => window.close(), 1000);
+  </script>
+</body>
+</html>
